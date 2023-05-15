@@ -1,0 +1,11 @@
+name: "my-website-name"
+output_dir: "."
+navbar:
+  title: "Website title"
+  left:
+    - text: "Overview"
+      href: index.html
+    - text: "R Markdown"
+      href: schedule.html
+    - text: "Including Plots"
+      href: assignments.html
